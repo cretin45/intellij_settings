@@ -1,7 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/Users/ed/.m2/repository" />
-    <macro name="_android_svg_android_335c3406" value="/Users/ed/svg-android/svgandroid/src" />
     <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/Kotlin/kotlinc" />
   </component>
 </application>

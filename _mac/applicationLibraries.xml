@@ -1,8 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="maps">
+    <library name="dagger-1.2.2">
       <CLASSES>
-        <root url="jar://$USER_HOME$/adt-bundle-mac/sdk/add-ons/addon-google_apis-google-23/libs/maps.jar!/" />
+        <root url="jar://$USER_HOME$/maven_cache/repository/com/squareup/dagger/dagger/1.2.2/dagger-1.2.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />

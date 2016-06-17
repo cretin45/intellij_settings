@@ -1,11 +1,63 @@
 <application>
   <component name="libraryTable">
+    <library name="com.jakewharton.hugo:hugo-plugin:1.2.1" type="repository">
+      <properties maven-id="com.jakewharton.hugo:hugo-plugin:1.2.1" />
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jakewharton/hugo/hugo-plugin/1.2.1/hugo-plugin-1.2.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.8.5/aspectjtools-1.8.5.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.5/aspectjrt-1.8.5.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/gradle/1.1.0-rc3/gradle-1.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/gradle-core/1.1.0-rc3/gradle-core-1.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/builder/1.1.0-rc3/builder-1.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/builder-model/1.1.0-rc3/builder-model-1.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/annotations/24.1.0-rc3/annotations-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/builder-test-api/1.1.0-rc3/builder-test-api-1.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/ddms/ddmlib/24.1.0-rc3/ddmlib-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/common/24.1.0-rc3/common-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/17.0/guava-17.0.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/sdklib/24.1.0-rc3/sdklib-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/layoutlib/layoutlib-api/24.1.0-rc3/layoutlib-api-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/dvlib/24.1.0-rc3/dvlib-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.4/commons-codec-1.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/sdk-common/24.1.0-rc3/sdk-common-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/build/manifest-merger/24.1.0-rc3/manifest-merger-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/lint/lint/24.1.0-rc3/lint-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/lint/lint-checks/24.1.0-rc3/lint-checks-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/lint/lint-api/24.1.0-rc3/lint-api-24.1.0-rc3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="dagger-1.2.2">
       <CLASSES>
         <root url="jar://$USER_HOME$/maven_cache/repository/com/squareup/dagger/dagger/1.2.2/dagger-1.2.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="java">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/modcore/modcore/sdk/src/main/java" />
+      </SOURCES>
     </library>
   </component>
 </application>

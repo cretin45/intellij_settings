@@ -4,5 +4,6 @@
     <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
     <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
     <service-url>https://dl.bintray.com/dshkil/maven</service-url>
+    <service-url>https://maven.cyngn.com/artifactory/repo</service-url>
   </component>
 </application>

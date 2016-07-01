@@ -1,17 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="com.facebook.android:facebook-android-sdk:4.12.0" type="repository">
-      <properties maven-id="com.facebook.android:facebook-android-sdk:4.12.0" />
-      <CLASSES>
-        <root url="jar://$USER_HOME$/cm13/lib/bolts-android-1.4.0.jar!/" />
-        <root url="jar://$USER_HOME$/cm13/lib/bolts-tasks-1.4.0.jar!/" />
-        <root url="jar://$USER_HOME$/cm13/lib/bolts-applinks-1.4.0.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/cm13/lib/facebook-android-sdk-4.12.0-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="com.jakewharton.hugo:hugo-plugin:1.2.1" type="repository">
       <properties maven-id="com.jakewharton.hugo:hugo-plugin:1.2.1" />
       <CLASSES>
@@ -88,6 +76,13 @@
     <library name="dagger-1.2.2">
       <CLASSES>
         <root url="jar://$USER_HOME$/maven_cache/repository/com/squareup/dagger/dagger/1.2.2/dagger-1.2.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="sdk">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/facebook-android-sdk-4.13.1/facebook/facebook-android-sdk-4.13.1/sdk.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
